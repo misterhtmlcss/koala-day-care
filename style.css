@@ -1,0 +1,9 @@
+.jumbo-background {
+    background-image: url(/images/kid-leafs-web.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+#blackme {
+    color: black;
+}
